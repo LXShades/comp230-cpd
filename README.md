@@ -36,6 +36,15 @@ Are we doing Agile yet? **Yes...kind of!** Choosing a stand-up time was a headac
 **Time management. Prioritising. 10% marks. Comp210 essay.** These words spun in a vortex in my head. Hi Dorothy. I should just say 'oh, wait, **this essay** will give me **only 10% marks**, I could be **managing** my time to do **prioritise** something else'. To put myself at ease, I will **check my marks** as soon as I receive the results. If they **are a first** I can assure myself that I put in too much effort and can put in less next time.  
 
 ## Week Four (15th October)
+Hi! This week has been successful so far. Among the things that went well was the develompent of a much nicer-looking paint prototype. Changing the colours to fit the tone, and adding some lights, while using an artist's assets made the prototype look more complete even though it was functionally not significantly changed. I will  keep doing that: add some quick and dirty building blocks to make the prototype more fun to play around in.  
+
+On Thursday after a meeting, I was hit with a criticism from my teammate who urged me to stop micromanaging the team. I believe there was some truth in this. There is an irony in being told you micromanage too much, then reflecting deeply in a notably convoluted reflective journal, but it touches on what I feel is habitual of myself. In fact, my head already self-identified myself as an aspiring leader, without me really noticing, and I forgot that this is a leaderless team here.  
+
+**We won't make a good game without autonomy.** Therefore, oops. 'Micromanaging' is a useful word. To break this habit down, I'm reading these two articles this evening:  
+
+https://www.process.st/micromanage/  
+https://www.forbes.com/sites/forbescoachescouncil/2018/06/04/try-these-12-strategies-if-you-need-to-stop-micromanaging/#6a330caa1c48  
+
 
 ## Week Five (22nd October)
 
@@ -59,6 +68,56 @@ As I noticed in the study, one of these things is reflecting on progress. This i
 
 ### Procedural domain:
 Identifying the skills you have, and what you need to improve. There is a GDC talk called How to Succeed, Fail and Learn worth watching.
+
+# Arising Problem Areas (Year 2 Study Block 1)
+## Micromanaging
+Thinking deeply about it, I've been too bossy. A team member mentioned this in a throwaway comment, and after a bit of googling, I'm guilty--my insecurities are leading me to give the team too little space.  
+
+First port of call, as suggested in on a Harvard Business Review article [1], is to identify the cause of this. A list of symptoms is on the Process.st article [2]:  
+
+* They don’t delegate  
+* Any delegated work is taken over again if a mistake is spotted  
+* **They hate decisions being made without them**  
+* **Focus is on the little details rather than the big picture**  
+* Most (or all) of their time is spent overseeing others  
+* They ignore the opinion and/or experience of others  
+* **Frequent updates are requested by them (even if the project isn’t relevant to them)**  
+* **They often find deliverables unsatisfactory**  
+
+I've bolded the ones apply to me, and hot darn, that is a lot of symptoms. Apparently, it goes in hand with perfectionism. An extremely familiar word as well. And I've built up perfectionism over the years... all the time, I've tried to do things the 'right' way, right down to 3DS Max licensing and making my own engines.  
+
+I don't want to be this way. I'm too controlling - can't we all make our personal best work into one good game, not just achieve a single idea? I'm starting to visualise a team now where I can ask people, what can I do that isn't in the prototype yet? Someone raises their hand, says 'rune-based paint mechanic'. I say, 'that's a nice idea, but I don't think I can program it quickly'. **'What other ideas do you have?'**  
+
+The big word is **autonomy**, we all need to have a part of the game. I can do my scrum stuff, then I can sit down and make some cool stuff. Heck, maybe sometimes, we could **throw away Agile altogether.** Make an 'anything goes' day, where we can make something cool that isn't necessarily in the books.  
+
+A strategy to look into is **OKR**, or Objectives and Key Results [2], they could be broad enough for the team to be creative.  
+
+Also refer back to when the **deadline was coming up for Demiurge**. A lot of stuff got done when we broke the flow.  
+
+Anyway, it's too late in the night to think too much about this stuff. Here's the top three things I intend to do from now on:  
+
+* Be a **good programmer**, not leader  
+* Provide **positive reinforcement**. **No negatives until the milestones are reached**  
+* **Trust the team**  
+
+And a few more...   
+* Relax: speak casually, stop feeding concerned minds.  
+* If they talk to me about each other, tell them to talk to each other, not me  
+* If it feels like I've been too close, go off into another part of the studio, be cool about it. **You guys do your thing, I'll be making some cool programming shit over there.** [3]  
+* Tell them, feel free to ask me about programming stuff  
+* Delegate tasks to the others  
+* Maybe propose the milestones, but don't specify how they should be reached [3]  
+* Be a good source of advice, not critique  
+* **Autonomy**  
+
+Next week:  
+* **Make the scrum timetable public**  
+
+Speaking of positive reinforcement, my mind's attacking itself quite hard right now. Let's ease it up. **It's fine to make a couple mistakes**. Learning from them is the important bit: consider this a good start. Excessive maybe, but I've also **encouraged the team to think a little**. They can **ask me for help** if they want to now, and I can ease off at the same time. Finally, I feel like I'm on a **positive stepping stone**, even if it's given me a heavy heart. Now, time to YouTube and sleep.  
+
+[1] https://hbr.org/2015/08/how-to-stop-micromanaging-your-team  
+[2] https://www.process.st/micromanage/  
+[3] https://www.forbes.com/sites/forbescoachescouncil/2018/06/04/try-these-12-strategies-if-you-need-to-stop-micromanaging/#6a330caa1c48
 
 # Arising Problem Areas (Year 1 Study Block 2)
 ## Communication blocks
