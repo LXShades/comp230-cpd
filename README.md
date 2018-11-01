@@ -15,7 +15,7 @@ PASS sessions started the first time this week and I was nervous. My practice se
 - **Facilitate friendship groups** in the cohort  
 - **Clear up confusions** on the course  
 
-In my first week, my biggest challenge was working with others. So inspired by another person in PASS training, I wrote up an icebreaker interview sheet. Included were questions such as your place on the alignment grid, and best Pokémon/Overwatch character.  
+In my first week, my biggest challenge was working with others. So inspired by another person in PASS training, I wrote up an icebreaker interview sheet. Included were questions such as your place on the alignment grid, and best PokÃ©mon/Overwatch character.  
 
 I paired them up and they interviewed each other. This was quite successful and conversations were flowing!  
 
@@ -47,8 +47,19 @@ https://www.forbes.com/sites/forbescoachescouncil/2018/06/04/try-these-12-strate
 
 
 ## Week Five (22nd October)
+Finishing the report, peer review. Woot. No conclusion. Wait do I need a conclusion? This week was written retroactively and I can't remember it. It's 10:30pm but due to the 7am mornings it's basically my version of 1am. Write this week later.  
+
+- Finishing the report  
+- PASS session wut
 
 ## Week Six (29th October)
+Our team dynamic is faltering, and currently I'm stuck in a similar position as last year. I no longer believe I'm micromanaging, but I do believe I'm influencing. I may be in the twilight zone, where a) they are relying on me, and b) I am not telling people what to do.  
+
+It is hard to collate into 200 words, but three people showed up to stand-up today. My focus therefore must be **assertion**. The scrum master **must know why people aren't showing up**, meaning I need to ask them. I know that everyone hasn't had the initiative they should have. I also know it's not my responsibility to 'handle this'.  
+
+Tomorrow morning I'll ask everyone, individually, why they didn't come in yesterday. I will also ask them how they feel about the game. The specific questions need to be layed out while I have breakfast tomorrow. My only agenda is: let's **enjoy making this game**. And don't get used to me telling you what to do. Make what you want to make.  
+
+I will everyone how they feel about their role, contribution, and the game. Then, I'll make a decision about what I would want to do.
 
 # Notes
 ### Dispositional domain:
@@ -75,13 +86,13 @@ Thinking deeply about it, I've been too bossy. A team member mentioned this in a
 
 First port of call, as suggested in on a Harvard Business Review article [1], is to identify the cause of this. A list of symptoms is on the Process.st article [2]:  
 
-* They don’t delegate  
+* They donâ€™t delegate  
 * Any delegated work is taken over again if a mistake is spotted  
 * **They hate decisions being made without them**  
 * **Focus is on the little details rather than the big picture**  
 * Most (or all) of their time is spent overseeing others  
 * They ignore the opinion and/or experience of others  
-* **Frequent updates are requested by them (even if the project isn’t relevant to them)**  
+* **Frequent updates are requested by them (even if the project isnâ€™t relevant to them)**  
 * **They often find deliverables unsatisfactory**  
 
 I've bolded the ones apply to me, and hot darn, that is a lot of symptoms. Apparently, it goes in hand with perfectionism. An extremely familiar word as well. And I've built up perfectionism over the years... all the time, I've tried to do things the 'right' way, right down to 3DS Max licensing and making my own engines.  
