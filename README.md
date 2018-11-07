@@ -59,7 +59,10 @@ It is hard to collate into 200 words, but three people showed up to stand-up tod
 
 Tomorrow morning I'll ask everyone, individually, why they didn't come in yesterday. I will also ask them how they feel about the game. The specific questions need to be layed out while I have breakfast tomorrow. My only agenda is: let's **enjoy making this game**. And don't get used to me telling you what to do. Make what you want to make.  
 
-I will everyone how they feel about their role, contribution, and the game. Then, I'll make a decision about what I would want to do.
+I will ask everyone how they feel about their role, contribution, and the game. Then, I'll make a decision about what I would want to do.
+
+## Week Seven (5th November)
+Do do do, this week convincing the team to change game and managing fears of confrontation.
 
 # Notes
 ### Dispositional domain:
