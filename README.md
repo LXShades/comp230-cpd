@@ -62,7 +62,27 @@ Tomorrow morning I'll ask everyone, individually, why they didn't come in yester
 I will ask everyone how they feel about their role, contribution, and the game. Then, I'll make a decision about what I would want to do.
 
 ## Week Seven (5th November)
-Do do do, this week convincing the team to change game and managing fears of confrontation.
+Last week's team attendance ended on a low of 1. Making the assumption that this project wouldn't work for us, I messaged everyone individually over the weekend to get their views.  
+
+A couple flaws in my methodology came up:  
+* I'm **reluctant to message everyone at the same time**. Likely because I was nervous awaiting the reply of each person, and the more people I was waiting for, the more pressure I felt, as there was no positive affirmation that the team were interested in-between my messages (even though affirmation shouldn't be necessary).
+* I **interpreted the delays and lack of responses as a lack of interest**. I had no plans to harass my teammates, so became worried that I was the only one making a big deal out of it.
+
+Some preferred the frog game, but many were **uncomfortable switching back** as our existing work could be lost. In our meeting, I focused on getting everyone to talk individually about the game. We switched back after some highly motivated discussion.  
+
+**Things that worked well:**
+- Individual talking time in meetings  
+- Raising the concern
+- Researching professional confrontation online
+
+**Things to improve:**
+- Messaging everyone slowly
+- Long meeting, more breaks
+
+## Week Eight
+- Stupid essay  
+- Taking over my life yo  
+- Obsession with getting top grades
 
 # Notes
 ### Dispositional domain:
