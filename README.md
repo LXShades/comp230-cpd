@@ -1,4 +1,4 @@
-# Weekly Reports
+﻿# Weekly Reports
 ## Ongoing thoughts
 **We need to do more playtesting.** It's early days, and we haven't even selected a single final prototype yet, but the playtesting is vital based on my last experience.  
 **Treat every sprint as a game jam.** Remember how much of Demiurge got done in the last week? Let's do that every week.  
@@ -80,9 +80,17 @@ Some preferred the frog game, but many were **uncomfortable switching back** as 
 - Long meeting, more breaks
 
 ## Week Eight
-- Stupid essay  
-- Taking over my life yo  
-- Obsession with getting top grades
+Essay week. An interesting one, here's the gist of what I learned through this week:  
+
+* Zotero **made things worse** once most things were written. There were too many articles in front of me, so I was getting lost deep in the topic.
+* **Scope down the question early**.
+* **Focus on the question.** My qustion was focused on finding solutions, but I **delved too deep into the context** in attempt to ensure I was addressing the controversy and toxicity of the workplace.
+
+The work on my essay also distracted me from running PASS sessions. This week I had a piece of negative feedback on them overall from a student who said they weren't getting much out of them. I asked how I could help them, but this didn't yield a specific suggestion. Ow my feelings.  
+
+The last two sessions were loosely individual support sessions, as I **hadn't planned the sessions** due to invasive essay work. Next time if I don't plan a session, I should **comunicate this** to the students, recommending them to **set up at a machine** so I can help them individually with tasks.  
+
+I hope to improve the PASS sessions now. Next week's topic is audio programming!
 
 # Notes
 ### Dispositional domain:
