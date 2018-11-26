@@ -92,6 +92,18 @@ The last two sessions were loosely individual support sessions, as I **hadn't pl
 
 I hope to improve the PASS sessions now. Next week's topic is audio programming!
 
+## Week Nine
+First week of not being scrum master. Emotionally I was a little sad mostly because I had come to feel like the things I did just led us in a bad direction. The gist of my feedback for this was:  
+
+* I talk too much. I'll **keep it short** from now on.  
+* I take too much time with admin (trying to account for the whole team)  
+
+Now that it's firmly stuck in my mind that I take too long to talk, I'm switching gears. Short mode is activated.  
+
+Meanwhile, team spirit felt low, so I focused on frog work this weekend. On Monday Week 10, the team seemed much more inspired! I'll do this more often: make surprise improvements to the game in my own way.  
+
+In other news, I'm applying for IGDA. A lecturer described it as passionate but too detailed on the negative sides, so I'll trim that away. Flowery language was another criticism which really solidified my mission for brevity this week. I plan to revise it immediately this evening (Monday 26th), to send it off by Wednesday. Y to the O to the L O L O L O!
+
 # Notes
 ### Dispositional domain:
 Time management, motivation, self-discipline  
