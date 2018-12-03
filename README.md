@@ -104,6 +104,11 @@ Meanwhile, team spirit felt low, so I focused on frog work this weekend. On Mond
 
 In other news, I'm applying for IGDA. A lecturer described it as passionate but too detailed on the negative sides, so I'll trim that away. Flowery language was another criticism which really solidified my mission for brevity this week. I plan to revise it immediately this evening (Monday 26th), to send it off by Wednesday. Y to the O to the L O L O L O!
 
+## Week 10
+- My changes to the frog game over the weekend were well-received  
+- Made an IGDA application: I aimed to be more positive and less descriptive of flaws, etc. **Don't overshare**  
+- I got a little stresed out when expressing to the team that we could work together more. I will find ways to deliver this feedback at earlier appropriate times so that they don't boil over.  
+
 # Notes
 ### Dispositional domain:
 Time management, motivation, self-discipline  
