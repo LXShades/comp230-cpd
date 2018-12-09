@@ -109,6 +109,13 @@ In other news, I'm applying for IGDA. A lecturer described it as passionate but 
 - Made an IGDA application: I aimed to be more positive and less descriptive of flaws, etc. **Don't overshare**  
 - I got a little stresed out when expressing to the team that we could work together more. I will find ways to deliver this feedback at earlier appropriate times so that they don't boil over.  
 
+## Week 11
+On Friday I received middling feedback for my ethics essay. The bulk of the marks I lost were apparently due to inadequate sources. My spelling and grammar was also marked down, either due to the use of a single-sentence paragraph, the lack of active voice. I will avoid the former in the future, even though the majority of online sources say there is nothing gramatically incorrect about it; as for the latter, I will research it prior to my next essay. 
+
+Frustratingly I did not manage to maintain productivity the rest of that day and that harkens back to my one-track mind problem. When a particular failure or question is on my mind, I can sometimes zone out of everything else. This could be mitigated by writing out my thoughts onto my diary so that I can focus on new or different tasks next time.  
+
+My feedback for the frog game has remained positive. Overall, I'm still advised to worry less. I will focus on delivering high-quaslity programming work.
+
 # Notes
 ### Dispositional domain:
 Time management, motivation, self-discipline  
