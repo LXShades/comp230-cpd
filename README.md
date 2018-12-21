@@ -116,6 +116,13 @@ Frustratingly I did not manage to maintain productivity the rest of that day and
 
 My feedback for the frog game has remained positive. Overall, I'm still advised to worry less. I will focus on delivering high-quaslity programming work.
 
+## Week 12
+What happened Week 12? Not much: I'm mostly on top of my assignments, as such my motivation has fallen a little bit. My attention turned back to the frog game, where I've been improving existing mechanics and adding QOL improvements like a grass generator.  
+
+One potential issue is my cynicism about my team. Recently I've felt somewhat frustrated about the lack of attendance, and I think it shows in my body language and attitude; for example I'm more prone to outwardly presume not all of us will show up.  
+
+Our team is skewed. I think I was far too focused on our productivity from the start, rather than the individuals. I don't feel like I know half of my team very well, and for a few of them I don't feel we're on the same wavelength and we're not very close. In a professional scenario, the solution is to continue to deliver work with a proactive, positive attitude. But I could improve my friendliness, as a reliable team member, and perhaps start by asking what I can do to help the team, and stop asking about what we could achieve.  
+
 # Notes
 ### Dispositional domain:
 Time management, motivation, self-discipline  
